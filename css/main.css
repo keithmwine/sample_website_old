@@ -4,3 +4,42 @@
 .nav-spacing {
 	margin: 0 0 0 10px;
 }
+.nav-decoration {
+	text-decoration: none;
+	color: blue;
+}
+.image-link {
+	text-decoration: none;
+}
+.report-title {
+	text-align: center; 
+	margin: 0 0 80px;
+}
+.whale-image {
+	display: block; 
+	margin: 0 auto;
+}
+.book-image {
+	float: left; 
+	margin: 0 40px 0 0;
+}
+.box {
+	width: 500px; 
+	margin: 20px auto; 
+	padding: 30px; 
+	background-color: #fafafa;
+}
+.blockquote {
+	font-style: italic; 
+	font-size: 20px;
+}
+.blockquote-span {
+	font-style: normal; 
+	font-size: 24px; 
+	font-weight: bold;
+	color: #ff0000;
+}
+.quote {
+	padding: 2px 20px; 
+	background: #5988d4;
+}
